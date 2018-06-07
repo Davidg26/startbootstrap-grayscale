@@ -192,3 +192,8 @@ function init() {
     icon: image
   });
 }
+
+// BUTTONS
+$("#chris").click(function(){
+  var choice1 = $('#chris').val()
+})

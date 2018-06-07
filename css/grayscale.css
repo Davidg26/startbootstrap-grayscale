@@ -199,6 +199,66 @@ a:focus, a:hover {
   height: 300px;
 }
 
+#chris {
+    display:block;
+    margin-left:auto;
+    margin-right:auto;
+    width:100px;
+    float:left;
+}
+
+#widow {
+    display:block;
+    margin-left:auto;
+    margin-right:auto;
+    width:100px;
+    float:right;
+}
+#comedy {
+    display:block;
+    margin-left:auto;
+    margin-right:auto;
+    width:30;
+    float:left;
+}
+#sad {
+    display:block;
+    margin-left:auto;
+    margin-right:auto;
+    width:30;
+    float:right;
+}
+#short {
+    display:block;
+    margin-left:auto;
+    margin-right:auto;
+    width:30;
+    float:left;
+}
+#long {
+    display:block;
+    margin-left:auto;
+    margin-right:auto;
+    width:30;
+    float:right;
+}
+#kids {
+    display:block;
+    margin-left:auto;
+    margin-right:auto;
+    width:30;
+    float:left;
+}
+#adult {
+    display:block;
+    margin-left:auto;
+    margin-right:auto;
+    width:30;
+    float:right;
+}
+
+
+
 @media (min-width: 992px) {
   .content-section {
     padding-top: 200px;
